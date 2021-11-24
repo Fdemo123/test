@@ -9,3 +9,7 @@
 
 > 3.JMM<br/>
 [JMM 特性有哪些](https://www.jianshu.com/p/8a58d8335270)<br/>
+
+> 4.内存泄漏<br/>
+(https://www.cnblogs.com/yl-saber/p/6907517.html)<br/>
+(https://blog.csdn.net/lc0817/article/details/67014499)<br/>
