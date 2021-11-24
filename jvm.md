@@ -4,7 +4,8 @@
 [垃圾收集](https://www.cnblogs.com/1024Community/p/honery.html)<br/>
 
 > 2.JVM 参数有哪几种，如何调优？<br/>
-[jvm 常用调优参数](https://blog.csdn.net/manzhizhen/article/details/52606726 https://www.cnblogs.com/likehua/p/3369823.html)<br/>
+[jvm 常用调优参数](https://blog.csdn.net/manzhizhen/article/details/52606726)<br/>
+(https://www.cnblogs.com/likehua/p/3369823.html)<br/>
 
 > 3.JMM<br/>
 [JMM 特性有哪些](https://www.jianshu.com/p/8a58d8335270)<br/>
