@@ -23,7 +23,7 @@ Eventually consistent（最终一致性）<br/>
 [死信队列](https://my.oschina.net/xiaominmin/blog/1810851)<br/>
 
 > 9.多路复用<br/>
-
+[epoll 水平触发（LT）与 边缘触发（ET）的区别？]()
 
 > 10、mq 的原理与应用场景，mq 是如何保证不丢消息的？<br/>
 [原理](https://www.cnblogs.com/flyrock/p/8859203.html)<br/>
