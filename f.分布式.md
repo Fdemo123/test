@@ -25,7 +25,7 @@ Eventually consistent（最终一致性）<br/>
 > 9.多路复用<br/>
 定义:IO多路复用是一种同步IO模型，实现一个线程可以监视多个文件句柄；一旦某个文件句柄就绪，就能够通知应用程序进行相应的读写操作；
 没有文件句柄就绪时会阻塞应用程序，交出cpu。多路是指网络连接，复用指的是同一个线程<br/>
-[epoll 水平触发（LT）与 边缘触发（ET）的区别？]()
+[epoll 水平触发（LT）与 边缘触发（ET）的区别？](https://www.cnblogs.com/heluan/p/9589086.html)
 
 > 10、mq 的原理与应用场景，mq 是如何保证不丢消息的？<br/>
 [原理](https://www.cnblogs.com/flyrock/p/8859203.html)<br/>
