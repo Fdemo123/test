@@ -35,6 +35,7 @@ redis 分布式锁大家没发现好麻烦吗？遍历上锁，计算时间等�
 [原理](https://github.com/shishan100/Java-Interview-Advanced)<br/>
 
 > 11.一致性哈希算法<br/>
+[原理](https://www.zsythink.net/archives/1182)<br/>
 
 > 12.分布式锁：
 悲观锁：<br/>
