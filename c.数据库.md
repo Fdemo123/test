@@ -33,6 +33,8 @@
 
 > 10.综合<br/>
 [综合](https://github.com/minfei-miffy/Java-mianshi-note/blob/master/Java%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E9%9B%86%E2%80%94MySQL%E9%9D%A2%E8%AF%95%E9%A2%98.md)<br/>
+(https://mp.weixin.qq.com/s/nMJSog9k838xHVioK9NVyw)<br/>
+(https://mp.weixin.qq.com/s/sUf43fvr3xDLzeh1KOSPaQ)<br/>
 
 > 11.事务隔离级别<br/>
 [死锁案例](http://blog.itpub.net/22664653/viewspace-2152274/)<br/>
