@@ -100,3 +100,6 @@ volatile标记的变量不会被编译器优化；synchronized标记的变量可
 > 30.提高volatile并发效率<br/>
 (https://blog.csdn.net/hyf_home/article/details/81673791#comments)<br/>
 
+> 31.面试必问
+(https://mp.weixin.qq.com/s/v3eClGAgC7iDW09MoDKiEA)
+
